@@ -1,7 +1,7 @@
 # My Spring Boot Application
 
 This is a  Spring Boot application developed using Eclipse to integrate with Angular application.
-This Sprig Boot Application is used as a backend application for (Angular application)[https://github.com/rajan10/SpringBootBackendPartOfSpringBootAngularGetMappingVsCode]
+This Sprig Boot Application is used as a backend application for [Angular application](https://github.com/rajan10/SpringBootBackendPartOfSpringBootAngularGetMappingVsCode)
 ## Getting Started
 
 1. Clone the repository.
